@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Learning github
+* new to it
+
+* 1 helllo
